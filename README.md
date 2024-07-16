@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Passionate Software Engineer with 4+ years of experience in developing applications<br><br>💼 Proficient in Java (Quarkus) and TypeScript (Angular), with experience in Node.js, Python, and React for side projects.<br><br>📚 Actively learning and striving for professional growth to make a positive impact in the industry.<br><br>🌟 Published demo projects on GitHub developed during challenges or for personal interests<br><br><br>
+👨‍💻 Passionate Software Engineer with 5+ years of experience in developing applications<br><br>💼 Proficient in Java (Quarkus) and TypeScript (Angular), with experience in Node.js, Python, and React for side projects.<br><br>📚 Actively learning and striving for professional growth to make a positive impact in the industry.<br><br>🌟 Published demo projects on GitHub developed during challenges or for personal interests<br><br><br>
 
 
 ## 🌐 Socials:
